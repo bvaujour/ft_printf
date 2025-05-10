@@ -1,6 +1,8 @@
 # ft_printf
 
-Projet de niveau 2 de l'école 42: Initiation aux fonction à arguments variatiques.
+Projet de niveau 2 de l'école 42.
+
+Initiation aux fonction à arguments variatiques.
 
 Ce projet consiste à reproduire le comportement de la fonction printf de la lib <stdio.h>.
 
